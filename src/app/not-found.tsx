@@ -69,7 +69,7 @@ export default function NotFoundPage() {
         <div className="hidden lg:block relative">
           <img
             alt="Happy family representing CorePath Impact's mission"
-            src="https://images.unsplash.com/photo-1511895426328-dc8714191300?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+            src="/images/not-found.jpg"
             className="absolute inset-0 w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-blue-600/10" />
